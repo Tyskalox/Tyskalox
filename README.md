@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I like working on basic projects<br>💻 I'm learning how to code in languages like javascript, typescript and node.<br>📌 I went on github to make projects, and make them open source for developers needing resources.<br>🪄 I'll make projects in many languages when i learn them.<br>
+🔭 I like working on basic projects<br>💻 I'm learning how to code in languages like javascript, typescript and node.js. <br>📌 I went on github to make projects, and make them open source for developers needing resources.<br>🪄 I'll make projects in many languages when i learn them.<br>
 
 
 # 💻 Tech Stack:
